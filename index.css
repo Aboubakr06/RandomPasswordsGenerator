@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+
+body {
+    background: #1C1C1C;
+
+}
+.container {
+    background: #1F2937;
+    border:none ;
+    width: 550px;
+    height: 550px;
+    padding: 115px 0 0 52px ;
+    margin: 0px auto;
+}
+h1 {
+    width: 354px;
+    height: 80px;
+    margin:  0  ;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    color: #FFFFFF;
+}
+a{
+    color :#4ADF86;
+}
+p{
+    margin: 10px 0 51px 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #D5D4D8;
+}
+#main{
+width: 191px;
+height: 42px;
+background: #10B981;
+border-radius: 6px;
+border: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+#main:hover {
+    cursor: pointer;
+    color: #273549;
+    background: #55F991;
+}
+
+hr {
+    margin: 35px 0 35px 0 ;
+    width: 446px;
+    height: 0px;
+    border: 1px solid #2F3E53;
+}
+
+.btn{
+    width: 211px;
+    height: 40px;
+    border-radius:6px ;
+    margin: 0 24px 0 0 ;
+    border: none;
+    background: #273549;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #55F991;
+}
+
+.btn:hover {
+    cursor: pointer;
+    color: #273549;
+    background: #55F991;
+}
